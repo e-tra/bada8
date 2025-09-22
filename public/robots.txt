@@ -1,0 +1,17 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://bada8.com/sitemap.xml
+
+# Páginas principales
+Allow: /
+Allow: /servicios
+Allow: /empresa
+Allow: /faq
+Allow: /contacto
+
+# SEO específico para Badalona
+# vaciado de locales comerciales Badalona
+# vaciado de oficinas Barcelona
+# vaciado de naves industriales
